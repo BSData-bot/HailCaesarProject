@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="hs3" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
-  <dataIndexEntries>
-    <dataIndexEntry filePath="Hail Caeser.gstz" dataType="gamesystem" dataId="856f-b39f-b616-471f" dataName="Hail Caeser" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="Thematic Byzantine.catz" dataType="catalogue" dataId="8df2-25f9-827a-fd03" dataName="Thematic Byzantine" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Arthurian Britain.catz" dataType="catalogue" dataId="e584-5370-22eb-4495" dataName="Arthurian Britain" dataBattleScribeVersion="2.03" dataRevision="4"/>
-  </dataIndexEntries>
-</dataIndex>
